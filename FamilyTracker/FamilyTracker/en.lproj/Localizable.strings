@@ -1,0 +1,280 @@
+
+/*
+ Localizable.strings
+ FamilyTracker
+ 
+ Created by Zeeshan Khan on 1/15/17.
+ Copyright © 2017 Sansongs Corporation. All rights reserved.
+ */
+
+// LoginVC
+
+"User Id cannot be empty" = "User Id cannot be empty";
+"Password cannot be empty" = "Password cannot be empty";
+"OK" = "OK";
+"Ok" = "Ok";
+"Info" = "Info";
+"Cancel" = "Cancel";
+"Settings" = "Settings";
+"Panic Settings" = "Panic Settings";
+"Login" = "Login";
+"Login..." = "Login...";
+"User Name" = "User Name";
+"Password" = "Password";
+"Please connect to internet!" = "Please connect to internet!";
+"Bangla" = "Bangla";
+"English" = "English";
+//ChatViewController
+//SMMessageViewTableCell
+//ViewController
+
+"Audio Streaming" = "Audio Streaming";
+"Please save server details in settings." = "Please save server details in settings.";
+"Start Streaming" = "Start Streaming";
+"Stop Streaming" = "Stop Streaming";
+"Error reading stream!" = "Error reading stream!";
+"Streaming..." = "Streaming...";
+
+"Stop Live Audio Streaming" = "Stop Live Audio Streaming";
+"Start Live Audio Streaming" = "Start Live Audio Streaming";
+"This stream no longer available." = "This stream no longer available.";
+"Live Video Streaming" = "Live Video Streaming";
+"Streaming" = "Streaming";
+
+// AudioStreamingVC
+"Live Audio Streaming Player" = "Live Audio Streaming Player";
+//HomeViewController
+"ALERT" = "ALERT";
+"This function is only available on the iPhone" = "This function is only available on the iPhone";
+"Error" = "Error";
+"Your device doesn't support SMS!" = "Your device doesn't support SMS!";
+"Just sent the %@ file to your email. Please check!" = "Just sent the file to your email. Please check!";
+"Audio" = "Audio";
+"Video" = "Video";
+"Message sending failed!" = "Message sending failed!";
+"Please add at least one ONVIF profile." = "Please add at least one ONVIF profile.";
+"Home" = "Home";
+"Manage Members" = "Manage Members";
+"No SIM Card Installed!" = "No SIM Card Installed!";
+//not checked
+"Location hide failed!" = "Location hide failed!";
+"User is hidden to all members" = "User is hidden to all members";
+"User visible to all members" = "User visible to all members";
+//AlertTableViewCell
+//AlertViewController
+"Notification" = "Notification";
+"Loading Alerts..." = "Loading Alerts...";
+
+//HistoryTableViewCell
+"Loading History..." = "Loading History...";
+"Location History:" = "Location History:";
+
+//MemberControlTableViewController
+"Manage Members" = "Manage Members";
+"Update"  = "Update";
+"Successfully Updated" = "Successfully Updated";
+"Emergency contact add successfully" = "Emergency contact add successfully";
+"Emergency contact remove successfully" = "Emergency contact remove successfully";
+//RegistrationSuccessfulViewController
+
+//MemberSignUpViewController
+"User Name can't be empty!" = "User Name can't be empty!";
+"Password can't be empty!" = "Password can't be empty!";
+"User name can't be empty!" = "User name can't be empty!";
+"Contact can't be empty!" = "Contact can't be empty!";
+"Email can't be empty!" = "Email can't be empty!";
+"Incorrect email formate!" = "Incorrect email format!";
+"Gender can't be empty!" = "Gender can't be empty!";
+"Relation can't be empty!" = "Relation can't be empty!";
+"Signup" = "Signup";
+"Name" = "Name";
+"Gender" = "Gender";
+"Mobile" = "Mobile";
+"Email" = "Email";
+"Male" = "Male";
+"Female" = "Female";
+"Add New Family Member" = "Add New Family Member";
+"Relation" = "Relation";
+"Update Settings..." = "Update Settings...";
+"SignUp..." = "SignUp...";
+"Signup Error!Please try again" = "Signup Error!Please try again";
+"Add Member..." = "Add Member...";
+"Please try again" = "Please try again";
+
+//MenuViewController
+"Guardian" = "Guardian";
+"Member" = "Member";
+"Home" = "Home";
+"Details" = "Details";
+"Profile" = "Profile";
+"Manage Your Information" = "Manage Your Information";
+"Manage Members" = "Manage Members";
+"Manage Your Family Member" = "Manage Your Family Member";
+"Surroundapps" = "Surroundapps";
+"Other Surroundapps" = "Other Surroundapps";
+"Logout" = "Logout";
+"Exit From App" = "Exit From App";
+"Settings" = "Settings";
+"Personalize your app" = "Personalize your app";
+"Emergency Contact" = "Emergency Contact";
+"Set emergency contacts" = "Set emergency contacts";
+//"Account Status" = "Account Status";
+"Account details" = "Account details";
+//RegistrationSuccessfulViewController
+
+//UpdateProfileViewController
+"Member Profile" = "Member Profile";
+"persons" = "Persons";
+"person" = "Person";
+"First name can't be empty!" = "First name can't be empty!";
+"Update Failed!" = "Update Failed!";
+"Try again" = "Try again";
+"Profile picture updated successfully" = "Profile picture updated successfully";
+"Profile picture size too big!" = "Profile picture size too big!";
+"Updating..." = "Updating...";
+
+"Update is completed" = "Update is completed";
+//UserSignUpViewController
+"Internal Server Error" = "Internal Server Error";
+"Signup Error! Please try again" = "Signup Error! Please try again";
+"Please Select activation type" = "Please Select activation type";
+"SMS" = "SMS";
+"Mail" = "Mail";
+
+///All error response---
+"User already exist" = "User already exist";
+"User model not valid" = "User model not valid";
+"Unable to execute" = "Unable to execute";
+"Member model must have gurdian_id or register as guardian" = "Member model must have gurdian_id or register as guardian";
+//login-error
+"Inactive User. Please activate" = "Inactive User. Please activate";
+"Invalid User" = "Invalid User";
+"Login Error! Please try later" = "Login Error! Please try later";
+"Password not match" = "Password not match";
+"No such user" = "No such user";
+"Force logout..." = "Force logout...";
+
+///
+"Video panic alert failed to send!" = "Video panic alert failed to send!";
+"Video panic alert has been sent." = "Video panic alert has been sent.";
+"Video streaming alert has been sent." = "Video streaming alert has been sent.";
+"Video streaming alert failed to send!" = "Video streaming alert failed to send!";
+"Audio panic alert has been sent." = "Audio panic alert has been sent.";
+"Audio panic alert failed to send!" = "Audio panic alert failed to send!";
+"Audio streaming alert has been sent." = "Audio streaming alert has been sent.";
+"Audio streaming alert failed to send!" = "Audio streaming alert failed to send!";
+"SMS panic alert has been sent." = "SMS panic alert has been sent.";
+"Panic alert has been sent." = "Panic alert has been sent.";
+"Panic alert failed to send!" = "Panic alert failed to send!";
+"Snapshot panic alert has been sent." = "Snapshot panic alert has been sent.";
+// Failed Alerts
+"Failed to send SMS!" = "Failed to send SMS!";
+"Invalid Phone number!" = "Invalid Phone number!";
+"Notice" = "Notice";
+"You need to add one member at least" = "You need to add one member at least";
+"Please add at leat one contact number!" = "Please add at leat one contact number!";
+"sohan" = "sohan";
+"getting emergency contact" = "getting emergency contact";
+"Mobile" = "Mobile";
+"phone nubmer is empty" = "phone nubmer is empty";
+//SMS VerificationVC
+"verifying..." = "verifying...";
+"Activation code cannot be empty" = "Activation code cannot be empty";
+"Enter Your Sms Activation Code" = "Enter Your Sms Activation Code";
+"Loading..." = "Loading...";
+// Emergency contact VC
+"Emergency contacts already add 3 numbers" = "Emergency contacts already add 3 numbers";
+"Phone nubmer cannot be empty!" = "Phone nubmer cannot be empty!";
+//PaymentViewController
+"Thank You" = "Thank You";
+"Sorry" = "Sorry";
+"Your Payment has been Successful." = "Your Payment has been Successful.";
+"Your Payment Failed!" = "Your Payment Failed!";
+"Verification Successful" = "Verification Successful";
+"Sms verification error" = "Sms verification error";
+"Get emergency contact fail" = "Get emergency contact fail";
+"Change password" = "Change password";
+"Old password" = "Old password";
+"New password" = "New password";
+"Old Password cannot be empty" = "Old Password cannot be empty";
+"New Password cannot be empty" = "New Password cannot be empty";
+"Password change successfully" = "Password change successfully";
+"changePassword..." = "changePassword...";
+"Change password error" = "Change password error";
+"Forgot Password" = "Forgot Password";
+"Please Select reset type" = "Please Select reset type";
+"Reset password..." = "Reset password...";
+"In offline" = "In offline";
+"Active inactive member successfully" = "Active inactive member successfully";
+"Active inactive member not successfully" = "Active inactive member not successfully";
+"Please fill up at least one them (email/mobile)" = "Please fill up at least one them (email/mobile)";
+"Do you want to logout?" = "Do you want to logout?";
+"Yes" = "Yes";
+"No" = "No";
+"Change Password" = "Change Password";
+"No information provided" = "No information provided";
+"Select" = "Select";
+"Photo Album" = "Photo Album";
+"Camera" = "Camera";
+"Cancel" = "Cancel";
+"Image crop" = "Image crop";
+"Done" = "Done";
+"Choose Type" = "Choose Type";
+"Profile Update" = "Profile Update";
+"Change Password" = "Change Password";
+"Do you want to remove this bounary?" = "Do you want to remove this bounary?";
+"Set boundary name" = "Set boundary name";
+"enter your boundary name" = "enter your boundary name";
+"Draw" = "Draw";
+"Reset" = "Reset";
+"Add boundary" = "Add boundary";
+"Pair Device" = "Pair Device";
+"Add Device Successfully" = "Add Device Successfully";
+"Add Device Fail" = "Add Device Fail";
+"Boundary touch alert has been sent." = "Boundary touch alert has been sent.";
+"Boundary untouched alert has been sent." = "Boundary untouched alert has been sent.";
+"Unpair Device" = "Unpair Device";
+"Pair Your Device" = "Pair Your Device";
+"Unpair Your Device" = "Unpair Your Device";
+"Silent Remote Streaming" = "Silent Remote Streaming";
+"Silent Remote Streaming Control" = "Silent Remote Streaming Control";
+"Add Device" = "Add Device";
+"Qr Code Can Not Empty!" = "Qr Code Can Not Empty!";
+"Manually Input QR Id" = "Manually Input QR Id";
+"add three points at least" = "add three points at least";
+"Account Status" = "Account Status";
+"Activation" = "Activation";
+"Location tracking on and off option" =  "Location tracking on and off option";
+"SMS Activation" = "SMS Activation";
+"seconds wait" = "seconds wait";
+"Location tracking ON and OFF action" = "Location tracking ON and OFF action";
+"Show location" = "Show location";
+"Hide location" = "Hide location";
+"Re-send emali..." = "Re-send emali...";
+"Re-sent email successfully. Please check your email" = "Re-sent email successfully. Please check your email";
+"Resend eamil fail" = "Resend eamil fail";
+"Resend activation code" = "Resend activation code";
+"Resend activation code successfully" = "Resend activation code successfully";
+"Resend activation code fail" = "Resend activation code fail";
+"at" = "at";
+"and" = "and";
+"Send SMS when pressing alert and panic resource type both can not be none" = "Send SMS when pressing alert and panic resource type both can not be none";
+"Profile updates successfully" = "Profile updates successfully";
+"App need to restart to change app language" = "App need to restart to change app language";
+"Boundary Set Tutorial" = "Boundary Set Tutorial";
+"Continue" = "Continue";
+"Skip" = "Skip";
+"Create a boundary,Click here" = "Create a boundary,Click here";
+"Do you want to see the boundary tutorial?" = "Do you want to see the boundary tutorial?";
+"Show" = "Show";
+"Boundary creation failed!" = "Boundary creation failed!";
+"Logout" = "Logout";
+"Unpair Device Fail" = "Unpair Device Fail";
+"You can not remove less than threee points" = "You can not remove less than threee points";
+"getting packages" = "getting packages";
+"Get package fail" = "Get package fail";
+"Setting Update Error!Please try again" = "Setting Update Error!Please try again";
+"Member Active" = "Member Active";
+"Member Inactive" = "Member Inactive";
+"Battery Status" = "Battery Status";
+"Battery" = "Battery";

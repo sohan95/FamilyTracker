@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11762" systemVersion="16E195" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
+                        <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="SurroundFamily Suite" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oFw-Sl-55L">
+                                <rect key="frame" x="63" y="84" width="248" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="248" id="1kJ-n9-qtN"/>
+                                    <constraint firstAttribute="height" constant="21" id="DWC-tr-A7B"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="AlertFamilyLogo" translatesAutoresizingMaskIntoConstraints="NO" id="P60-Jx-8iG">
+                                <rect key="frame" x="123" y="130" width="128" height="128"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="128" id="9hf-YK-aoU"/>
+                                    <constraint firstAttribute="width" constant="128" id="ZLo-EI-1Gd"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Alert Family" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FFV-gu-Aym">
+                                <rect key="frame" x="113" y="278" width="150" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="150" id="8lp-aI-bQ3"/>
+                                    <constraint firstAttribute="height" constant="21" id="GQC-Ju-Lgd"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="BRINGING FAMILY TOGETHER" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rDX-nF-RDx">
+                                <rect key="frame" x="88" y="480" width="200" height="121"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="200" id="1Tz-Qi-Dmr"/>
+                                    <constraint firstAttribute="height" constant="121" id="p8j-b9-6Ze"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="26"/>
+                                <color key="textColor" red="0.23921568627450979" green="0.72549019607843135" blue="0.46274509803921571" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="SurroundApps" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bAr-SQ-RXY">
+                                <rect key="frame" x="95" y="626" width="185" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="LxK-zz-BMR"/>
+                                    <constraint firstAttribute="width" constant="185" id="WVY-hB-YMA"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                <color key="textColor" red="0.23921568630000001" green="0.72549019609999998" blue="0.46274509800000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.20784313725490194" green="0.20784313725490194" blue="0.28235294117647058" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="oFw-Sl-55L" firstAttribute="top" secondItem="Llm-lL-Icb" secondAttribute="bottom" constant="84" id="0R7-pX-2BH"/>
+                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="bAr-SQ-RXY" secondAttribute="bottom" constant="20" id="2Mr-22-1fd"/>
+                            <constraint firstItem="P60-Jx-8iG" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="8GL-gp-hM8"/>
+                            <constraint firstItem="oFw-Sl-55L" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="CST-4Z-RDF"/>
+                            <constraint firstItem="FFV-gu-Aym" firstAttribute="top" secondItem="P60-Jx-8iG" secondAttribute="bottom" constant="20" id="Rnp-IJ-HmR"/>
+                            <constraint firstItem="rDX-nF-RDx" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="TpW-t5-qKX"/>
+                            <constraint firstItem="FFV-gu-Aym" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="eLj-rd-olT"/>
+                            <constraint firstItem="bAr-SQ-RXY" firstAttribute="top" secondItem="rDX-nF-RDx" secondAttribute="bottom" constant="25" id="gsL-mQ-9TW"/>
+                            <constraint firstItem="P60-Jx-8iG" firstAttribute="top" secondItem="oFw-Sl-55L" secondAttribute="bottom" constant="25" id="hFK-NM-TJL"/>
+                            <constraint firstItem="bAr-SQ-RXY" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="zYd-Kx-1mq"/>
+                        </constraints>
+                    </view>
+                    <nil key="simulatedStatusBarMetrics"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-282" y="204"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="AlertFamilyLogo" width="170" height="170"/>
+    </resources>
+</document>

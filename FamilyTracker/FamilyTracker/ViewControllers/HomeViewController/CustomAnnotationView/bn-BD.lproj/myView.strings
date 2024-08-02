@@ -1,0 +1,16 @@
+
+/* Class = "UIButton"; normalTitle = "Details"; ObjectID = "E5C-6s-N96"; */
+"E5C-6s-N96.normalTitle" = "বিস্তারিত";
+
+/* Class = "UIButton"; normalTitle = "Location History"; ObjectID = "FKq-uY-t1f"; */
+"FKq-uY-t1f.normalTitle" = "অবস্থান বিবরণ";
+
+/* Class = "UIButton"; normalTitle = "Send SMS"; ObjectID = "VrB-K6-Hks"; */
+"VrB-K6-Hks.normalTitle" = "মেসেজ পাঠান";
+
+/* Class = "UILabel"; text = "Md. Shahanur Rahmann"; ObjectID = "maq-W2-6Fo"; */
+"maq-W2-6Fo.text" = "Md. Shahanur Rahmann";
+
+/* Class = "UIButton"; normalTitle = "Call"; ObjectID = "yaQ-kf-Sie"; */
+"yaQ-kf-Sie.normalTitle" = "কল করুন";
+"FRp-tY-baA.normalTitle" = "ট্রাভেল বাউন্ডারি";

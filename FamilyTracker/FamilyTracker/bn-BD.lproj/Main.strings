@@ -1,0 +1,289 @@
+
+/* Class = "UILabel"; text = "অভিভাবক/প্রধান সদস্য"; ObjectID = "1NV-n7-duZ"; */
+"1NV-n7-duZ.text" = "অভিভাবক/প্রধান সদস্য";
+/* Class = "UILabel"; text = "স্ট্রিম হচ্ছে ..."; ObjectID = "1Qz-Ni-ieu"; */
+"1Qz-Ni-ieu.text" = "স্ট্রিম হচ্ছে ...";
+/* Class = "UILabel"; text = "আপনার নতুন সদস্য তৈরী সফল হয়েছে । প্রয়োজনে আপনি নতুন সদস্য যুক্ত করতে পারবেন।"; ObjectID = "2V5-Wh-Nkv"; */
+"2V5-Wh-Nkv.text" = "আপনার নতুন সদস্য তৈরী সফল হয়েছে । প্রয়োজনে আপনি নতুন সদস্য যুক্ত করতে পারবেন।";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "2qG-Kp-F9X"; */
+"2qG-Kp-F9X.text" = "বিজ্ঞপ্তি";
+
+/* Class = "UILabel"; text = "Date Time"; ObjectID = "3h9-Px-Ri4"; */
+"3h9-Px-Ri4.text" = "তারিখ সময়";
+
+/* Class = "UILabel"; text = "মেহেদী  হাসান তানিম"; ObjectID = "7eH-B8-axP"; */
+"7eH-B8-axP.text" = "মেহেদী হাসান তানিম";
+
+/* Class = "UITextField"; text = "Mirpur 1"; ObjectID = "7gB-Ba-OUF"; */
+"7gB-Ba-OUF.text" = "Mirpur 1";
+
+/* Class = "UIButton"; normalTitle = "Male"; ObjectID = "7uy-vd-aBR"; */
+"7uy-vd-aBR.normalTitle" = "পুরুষ";
+
+/* Class = "UITextField"; text = "Jalilur"; ObjectID = "85t-cB-025"; */
+"85t-cB-025.text" = "Jalilur";
+
+/* Class = "UILabel"; text = "নিচের তথ্য গুলো পুরন করে অ্যা\b\bপ্লিকেশন\bটি \bব্যবহার করুন"; ObjectID = "8ye-cA-FnX"; */
+"8ye-cA-FnX.text" = "নিচের তথ্য গুলো পূরণ করে অ্যাপ্লিকেশনটি ব্যবহার করুন";
+
+/* Class = "UILabel"; text = "Remaning Size"; ObjectID = "9Ak-pt-7OY"; */
+"9Ak-pt-7OY.text" = "অবশিষ্ট জায়গ";
+
+/* Class = "UILabel"; text = "Recording..."; ObjectID = "C9p-Cc-Y4c"; */
+"C9p-Cc-Y4c.text" = "রেকর্ডিং…";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "CMR-dQ-Qfa"; */
+"CMR-dQ-Qfa.text" = " ঠিকানা";
+
+/* Class = "UILabel"; text = "Your Alert is being sent to all of your Family Members. Press cancel to stop sending in:"; ObjectID = "CtD-v3-OMx"; */
+"CtD-v3-OMx.text" = "আপনার সতর্ক বার্তাটি পরিবারের কাছে পাঠান হচ্ছে। বার্তা বন্ধ করতে হলে 'বাতিল' চাপুন।";
+//
+/* Class = "UIButton"; normalTitle = " নতুন সদস্য"; ObjectID = "Cut-9D-pir"; */
+"Cut-9D-pir.normalTitle" = " নতুন সদস্য";
+
+/* Class = "UITextField"; text = "1992 11 05"; ObjectID = "CzF-jb-GR1"; */
+"CzF-jb-GR1.text" = "";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Dzd-PV-cfu"; */
+"Dzd-PV-cfu.normalTitle" = "বাতিল";
+
+/* Class = "UIButton"; normalTitle = "স্ত্রী"; ObjectID = "ErI-7w-ijV"; */
+"ErI-7w-ijV.normalTitle" = "ইমেইল";
+
+"Oj0-Xf-lDF.text" = "আমাকে অবহিত করুন";
+"KJO-jb-z6d.text" = "এসএমএস";
+
+/* Class = "UILabel"; text = "Chief Member"; ObjectID = "FVt-9A-AK7"; */
+"FVt-9A-AK7.text" = "প্রধান সদস্য";
+
+/* Class = "UILabel"; text = "-00:03"; ObjectID = "Hlh-e9-jeb"; */
+"Hlh-e9-jeb.text" = "-০০:০৩";
+
+/* Class = "UIButton"; normalTitle = "স্ত্রী"; ObjectID = "Ier-iJ-qcE"; */
+"Ier-iJ-qcE.normalTitle" = "মহিলা";
+
+/* Class = "UILabel"; text = "Label defualt value"; ObjectID = "Ihb-bm-dSE"; */
+"Ihb-bm-dSE.text" = "Label defualt value";
+
+
+"auS-8J-O7s.normalTitle" = "লিঙ্গ";
+/* Class = "UIButton"; normalTitle = "পরবর্তী ধাপ"; ObjectID = "Ikh-Ya-wqI"; */
+"Ikh-Ya-wqI.normalTitle" = "পরবর্তী ধাপ";
+
+/* Class = "UIButton"; normalTitle = "পুরুষ"; ObjectID = "Io5-xl-qf3"; */
+"Io5-xl-qf3.normalTitle" = "এস এম এস";
+
+/* Class = "UINavigationItem"; title = "Audio Stream"; ObjectID = "J69-WJ-W7V"; */
+"J69-WJ-W7V.title" = "অডিও স্ট্রিম";
+
+/* Class = "UIButton"; normalTitle = "নতুন সদস্য"; ObjectID = "JT0-hl-o1U"; */
+"JT0-hl-o1U.normalTitle" = "নতুন সদস্য";
+
+/* Class = "UILabel"; text = "আপনার ইমেইলটি চেক করুন । অ্যাক্টিভেশন লিংক আপনার ইমেইল  এ পাঠানো হয়েছে ।"; ObjectID = "JaO-eY-hU2"; */
+"JaO-eY-hU2.text" = "আপনার ইমেইলটি চেক করুন । অ্যাক্টিভেশন লিংক আপনার ইমেইল  এ পাঠানো হয়েছে ।";
+
+/* Class = "UITextField"; text = "Rahman"; ObjectID = "KGK-hC-X9U"; */
+"KGK-hC-X9U.text" = "Rahman";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "NDM-Vj-pTs"; */
+"NDM-Vj-pTs.text" = "লিঙ্গ";
+
+/* Class = "UIButton"; normalTitle = "পুরুষ"; ObjectID = "OA2-eB-GIs"; */
+"OA2-eB-GIs.normalTitle" = "পুরুষ";
+
+/* Class = "UILabel"; text = "05 Person"; ObjectID = "Os8-Me-SAv"; */
+"Os8-Me-SAv.text" = "05 ব্যক্তি";
+
+/* Class = "UILabel"; text = "সদস্য তৈরি করতে নিচের তথ্য গুলো পুরন করুন"; ObjectID = "Pc9-0x-tJT"; */
+"Pc9-0x-tJT.text" = "ব্যবহারকারী তৈরী করতে নিচের তথ্যগুলো পূরণ করুন";
+
+/* Class = "UIButton"; normalTitle = "Male"; ObjectID = "PgX-NL-yJw"; */
+"PgX-NL-yJw.normalTitle" = "পুরুষ";
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "Q26-ng-e2k"; */
+"Q26-ng-e2k.text" = "ব্যবহারকারীর নাম";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QFW-GA-Jp3"; */
+"QFW-GA-Jp3.text" = "";
+
+/* Class = "UIButton"; normalTitle = "সদস্য নিয়ন্ত্রণ"; ObjectID = "SWF-U7-WTt"; */
+"SWF-U7-WTt.normalTitle" = "সদস্য নিয়ন্ত্রণ";
+
+/* Class = "UIButton"; normalTitle = "লাইভ ভিডিও বন্ধ করুন"; ObjectID = "TbK-Ws-E33"; */
+"TbK-Ws-E33.normalTitle" = " স্ট্রিমিং বন্ধ করুন";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "Ukr-T7-aqx"; */
+"Ukr-T7-aqx.text" = "নামের শেষাংশ";
+
+/* Class = "UISegmentedControl"; XsB-ko-Gca.segmentTitles[0] = "List View"; ObjectID = "XsB-ko-Gca"; */
+"XsB-ko-Gca.segmentTitles[0]" = "তালিকা";
+
+/* Class = "UISegmentedControl"; XsB-ko-Gca.segmentTitles[1] = "Map View"; ObjectID = "XsB-ko-Gca"; */
+"XsB-ko-Gca.segmentTitles[1]" = "মানচিত্র";
+
+/* Class = "UILabel"; text = "20000 MB"; ObjectID = "YsS-ac-a9E"; */
+"YsS-ac-a9E.text" = "20000 MB";
+
+/* Class = "UILabel"; text = "Family Member"; ObjectID = "aCb-zP-JWj"; */
+"aCb-zP-JWj.text" = "পরিবারের সদস্য";
+
+/* Class = "UITextField"; text = "+880172345678"; ObjectID = "aTT-C6-oCt"; */
+"aTT-C6-oCt.text" = "+880172345678";
+
+/* Class = "UIButton"; normalTitle = "পরবর্তী ধাপ"; ObjectID = "aVi-lo-l1y"; */
+"aVi-lo-l1y.normalTitle" = "পরবর্তী ধাপ";
+
+/* Class = "UILabel"; text = "ঢাকা, বাংলাদেশ"; ObjectID = "cOy-Az-DFi"; */
+"cOy-Az-DFi.text" = "ঢাকা, বাংলাদেশ";
+
+/* Class = "UILabel"; text = "Mobile"; ObjectID = "crl-WU-GSO"; */
+"crl-WU-GSO.text" = "মোবাইল";
+
+/* Class = "UILabel"; text = "অভিভাবক/প্রধান সদস্য হিসেবে অনুমতি দেয়া"; ObjectID = "lKM-fY-fAY"; */
+"lKM-fY-fAY.text" = "অভিভাবক/প্রধান সদস্য হিসেবে অনুমতি দেয়া";
+
+/* Class = "UILabel"; text = "লগইন"; ObjectID = "lU0-Mo-WAf"; */
+"lU0-Mo-WAf.text" = "লগইন";
+
+/* Class = "UIButton"; normalTitle = "রেকর্ডিং শুরু কারুন"; ObjectID = "lbc-CS-ugd"; */
+"lbc-CS-ugd.normalTitle" = "রেকর্ডিং শুরু কারুন";
+
+/* Class = "UIButton"; normalTitle = "লগইন"; ObjectID = "meA-zW-acD"; */
+"meA-zW-acD.normalTitle" = "লগইন";
+
+/* Class = "UITextField"; text = "jalil_cse@yahoo.com"; ObjectID = "npx-2v-XXh"; */
+"npx-2v-XXh.text" = "";
+
+/* Class = "UITextField"; text = "murtuza"; ObjectID = "oGo-Th-nN0"; */
+"oGo-Th-nN0.text" = "";
+
+/* Class = "UISegmentedControl"; pwf-lC-xll.segmentTitles[0] = "Standard"; ObjectID = "pwf-lC-xll"; */
+"pwf-lC-xll.segmentTitles[0]" = "Standard";
+
+/* Class = "UISegmentedControl"; pwf-lC-xll.segmentTitles[1] = "Satellite"; ObjectID = "pwf-lC-xll"; */
+"pwf-lC-xll.segmentTitles[1]" = "Satellite";
+
+/* Class = "UISegmentedControl"; pwf-lC-xll.segmentTitles[2] = "Hibrid"; ObjectID = "pwf-lC-xll"; */
+"pwf-lC-xll.segmentTitles[2]" = "Hibrid";
+
+/* Class = "UILabel"; text = "Panic Alert"; ObjectID = "q4t-k3-NGI"; */
+"q4t-k3-NGI.text" = "প্যানিক সতর্কতা";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "qRW-Pl-VX3"; */
+"qRW-Pl-VX3.text" = "ই-মেইল";
+
+/* Class = "UIButton"; normalTitle = "নতুন অ্যা\bকাউন্ট খুলুন"; ObjectID = "rjS-1E-tVl"; */
+"rjS-1E-tVl.normalTitle" = "নতুন অ্যা\bকাউন্ট খুলুন";
+
+/* Class = "UIButton"; normalTitle = "লগইন পেজ"; ObjectID = "sHk-7T-7sC"; */
+"sHk-7T-7sC.normalTitle" = "লগইন পেজ";
+
+/* Class = "UILabel"; text = "Video"; ObjectID = "sWt-B1-DFI"; */
+"sWt-B1-DFI.text" = "ভিডিও";
+
+/* Class = "UILabel"; text = "প্রধান সদস্য"; ObjectID = "syA-je-hgz"; */
+"syA-je-hgz.text" = "প্রধান সদস্য";
+
+/* Class = "UIButton"; normalTitle = "পাসওয়ার্ড ভুল?"; ObjectID = "tKd-XE-IyO"; */
+"tKd-XE-IyO.normalTitle" = "পাসওয়ার্ড ভুল?";
+
+/* Class = "UILabel"; text = "Local Recording"; ObjectID = "vEy-Py-6sn"; */
+"vEy-Py-6sn.text" = "লোকাল রেকর্";
+
+/* Class = "UILabel"; text = "সদস্য তৈরি করতে নিচের তথ্য গুলো পুরন করুন"; ObjectID = "vVD-Rw-c0K"; */
+"vVD-Rw-c0K.text" = "সদস্য তৈরি করতে নিচের তথ্যগুলো পূরণ করুন";
+
+/* Class = "UIButton"; normalTitle = "Female"; ObjectID = "w4g-Ob-4Ke"; */
+"w4g-Ob-4Ke.normalTitle" = "মহিলা";
+
+/* Class = "UIButton"; normalTitle = "সতর্ক বার্তা"; ObjectID = "w8y-Oy-aRw"; */
+"w8y-Oy-aRw.normalTitle" = "সতর্ক বার্তা";
+
+/* Class = "UILabel"; text = "DOB"; ObjectID = "w8z-Rv-9gi"; */
+"w8z-Rv-9gi.text" = "জন্ম তারিখ";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "y3y-H5-BBy"; */
+"y3y-H5-BBy.text" = "প্রথম নাম";
+
+/* Class = "UIButton"; normalTitle = "আলাপ"; ObjectID = "ywF-TU-Qoc"; */
+"ywF-TU-Qoc.normalTitle" = "আলাপ";
+
+/* Class = "UILabel"; text = "Shahriar Kabir"; ObjectID = "zQM-xU-r4k"; */
+"zQM-xU-r4k.text" = "Shahriar Kabir";
+
+/* Class = "UILabel"; text = "25 january 10:15 Satarday, 2016"; ObjectID = "zps-sV-Cz1"; */
+"zps-sV-Cz1.text" = "25 january 10:15 Satarday, 2016";
+
+"4A9-wk-M4y.text" = "পরিবারের সদস্য";
+"TrC-1p-JgG.text" = "ব্যবহারকারীর নাম";
+"hG7-ay-1jz.text" = "প্রথম নাম";
+"Y5g-aK-bIs.text" = "নামের শেষাংশ";
+"L9W-K5-H6S.text" = "লিঙ্গ";
+"63O-cE-zjT.normalTitle" = "পুরুষ";
+"3NM-az-ra5.normalTitle" = "পুরুষ";
+"kek-6A-lof.normalTitle" = "মহিলা";
+"UKg-Wb-jQ6.text" = "মোবাইল";
+"Ge2-lx-gxO.text" = "ই-মেইল";
+"qao-Qj-8pe.text" = "জন্ম তারিখ";
+"UaH-gc-TqZ.text" = " ঠিকানা";
+
+"Ilb-iI-5Vb.text" = "প্যানিক সতর্কতা";
+"BIX-6Z-dQ7.text" = "আলাপ";
+"Oa5-Q7-gzh.text" = "অডিও";
+"Aqm-Ki-abE.text" = "ভিডিও";
+"aGO-t5-gqV.text" = "দুঃখিত। অ্যাপটির ট্রায়াল ভার্সনের মেয়াদ শেষ হয়ে গেছে। ব্যবহার নিরবিছিন্ন রাখতে আমাদের সাথে যোগাযোগ করুন।";
+"0jd-oz-ER5.text" = "ইমেইল: shotorko.poribar@gmail.com";
+"ExB-Rg-Xcp.text" = "ইমেইল";
+
+"eqY-Tz-PIK.text" = "আমাকে অবহিত করুন";
+"WH0-Z4-JHd.text" = "এসএমএস";
+"EbV-2v-9Dq.text" = "ইমেইল";
+"Rpm-NY-pVA.text" = "জরুরী নম্বর যোগ করুন";
+"jA6-88-y3S.text" = "যদি আপনার সাহায্যের প্রয়োজন হয় তাহলে আমরা নিচের নম্বরগুলোতে আপনার বর্তমান অবস্থান জানিয়ে দিবো";
+"gwW-Ld-hss.text" = "একটি সাহায্য সতর্কতা পাঠাতে উপরে ট্যাপ করুন";
+"jMx-4s-WTX.text" = "মোবাইল";
+"kWa-AV-tAp.text" = "মোবাইল";
+"Z9H-TM-oCG.text" = "মোবাইল";
+"7QR-Cl-52M.normalTitle" = "প্রস্থান";
+"egx-Xe-0W4.normalTitle" = "সেট পিন";
+"cBe-UW-FUq.text" = "একটি অ্যাক্টিভেশন কোড আপনার মোবাইল ডিভাইস থেকে পাঠানো হয়েছিল, নিচের কোড লিখুন:";
+"i64-EF-gRi.text" = "সক্রিয়করণ";
+"gUu-UR-QJA.text" = "লুকান";
+"Olk-oE-rwT.normalTitle" = "পাসওয়ার্ড পরিবর্তন";
+"U78-XS-ECf.text" = "পাসওয়ার্ড রিসেট";
+"3LZ-Tb-7VB.normalTitle" = "এখন পাঠান";
+"4M4-nU-qSl.text" = "সতর্কতা";
+"xcR-cn-KJn.text" = "অডিও সম্প্রচার";
+"NBf-pY-q1O.text" = "আলাপ";
+"5ac-br-PcB.text" = "ভিডিও";
+"Ypb-fi-ISI.normalTitle" = "বাতিল";
+"mEO-GX-q7B.text" = "আপনার সতর্ক বার্তাটি পরিবারের কাছে পাঠান হচ্ছে। বার্তা বন্ধ করতে হলে 'বাতিল' চাপুন।";
+"Arz-eg-NI8.normalTitle" = "পরিবর্তন";
+"jvE-xy-GAi.normalTitle" = "বাতিল";
+"m3a-Kd-tli.normalTitle" = "প্রোফাইল আপডেট";
+"d6P-GW-UGj.normalTitle" = "পাসওয়ার্ড পরিবর্তন";
+"cdW-ag-8SD.text" = "পাসওয়ার্ড পরিবর্তন";
+"BWB-vE-I9d.normalTitle" = "সদস্য নির্বাচন করুন";
+"0Ve-eg-EnF.normalTitle" = "বিযুক্ত";
+"Ixa-cO-8Ba.normalTitle" = "সদস্য নির্বাচন করুন";
+"7aM-0S-vWi.normalTitle" = "স্ক্যানার";
+"aGd-Vy-LSR.normalTitle" = "ডিভাইস যুক্ত করুন";
+"hS2-GH-lkx.normalTitle" = "অ্যাক্টিভেশন ইমেল পুনরায় পাঠান";
+"ZXU-wk-t9L.normalTitle" = "সক্রিয়করণ কোড পুনরায় পাঠান";
+"X82-8K-b3i.text" = "প্যানিক কাউন্টডাউন";
+"w1p-v0-hP0.normalTitle" = "যোগ";
+"ndG-m3-Gnh.normalTitle" = "বাতিল";
+"Mq2-0D-b3Z.normalTitle" = "রিসেট পাসওয়ার্ড";
+"n6g-iF-0N8.text" = "সীমা আঁকুন এবং সংরক্ষণ করুন";
+"wht-yU-rWe.text" = "এক্সিট এডিট মোড";
+"fZ1-OF-PAb.text" = "সমস্ত মার্কার সরান এবং পুনরায় আঁকা";
+"qHJ-Q4-wvI.text" = "শেষ মার্কার সরান";
+"AeG-Oy-bqq.text" = "মার্কার স্থাপন করতে মানচিত্রে আলতো চাপুন একটি সীমানা নির্ধারণ অন্তত 3 মার্কার রাখুন";
+"4Ac-Bs-Ni6.text" = "বুঝেছি";
+"boj-I3-6e4.normalTitle" = "আবার আমাকে দেখাবেন না";
+"H5k-8Z-VIa.text" = "কল";
+"lXD-In-13F.text" = "ভিডিও";
+"o0H-P2-0XT.text" = "ক্যালেন্ডার";
+"nhn-nh-BOc.text" = "স্মৃতি";
+"af4-hO-FMd.text" = "সঙ্গীত";

@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "be58d385-c38a-1f48-b213-4906ee0200e5++761",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "be58d385-c38a-1f48-b213-4906ee0200e5++761" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "be58d385-c38a-1f48-b213-4906ee0200e5++761" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BB89EAB8-13E6-45E7-BC01-971BF7E6B71F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "be58d385-c38a-1f48-b213-4906ee0200e5++761" : "FamilyTracker\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FamilyTracker",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FamilyTracker\/FamilyTracker.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/54.183.188.29:8443\/svn\/FamilyTrackeriOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "be58d385-c38a-1f48-b213-4906ee0200e5++761"
+    }
+  ]
+}

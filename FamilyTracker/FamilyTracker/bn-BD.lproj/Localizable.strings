@@ -1,0 +1,277 @@
+
+/* 
+  Localizable.strings
+  FamilyTracker
+
+  Created by Zeeshan Khan on 1/15/17.
+  Copyright © 2017 Sansongs Corporation. All rights reserved.
+*/
+
+// LoginVC
+
+"User Id cannot be empty" = "ব্যবহারকারী আইডি খালি রাখা যাবে না";
+"Password cannot be empty" = "পাসওয়ার্ড খালি রাখা যাবে না";
+"OK" = "ঠিক আছে";
+"Ok" = "ঠিক আছে";
+"Info" = "তথ্য";
+"Cancel" = "বাতিল";
+"Settings" = "সেটিংস";
+"Login" = "লগইন";
+"Login..." = "লগইন...";
+"Force logout..." = "ফোর্স লগআউট ...";
+"User Name" = "ব্যবহারকারী নাম";
+"Password" = "পাসওয়ার্ড";
+"Please connect to internet!" = "ইন্টারনেটের সাথে সংযোগ করুন!";
+"Bangla" = "বাংলা";
+"English" = "ইংলিশ";
+//ChatViewController
+//SMMessageViewTableCell
+//ViewController
+
+"Audio Streaming" = "অডিও স্ট্রিমিং";
+"Please save server details in settings." = "অনুগ্রহ করে সার্ভার এর বিস্তারিত সেটিংস সংরক্ষণ করুন";
+"Start Streaming" = " স্ট্রিমিং শুরু";
+"Stop Streaming" = " স্ট্রিমিং বন্ধ";
+"Error reading stream!" = " স্ট্রিমিং- এ ত্রুটি হয়েছে!";
+"Streaming..." = "স্ট্রীম হচ্ছে";
+// AudioStreamingVC
+"Live Audio Streaming Player" = "লাইভ অডিও স্ট্রিমিং প্লেয়ার";
+"Live Video Streaming" = "লাইভ ভিডিও স্ট্রিমিং";
+"Streaming" = " স্ট্রিমিং";
+"Stop Live Audio Streaming" = "লাইভ অডিও স্ট্রিমিং বন্ধ করুন";
+"Start Live Audio Streaming" = "লাইভ অডিও স্ট্রিমিং চালু করুন";
+"This stream no longer available." = "এই সম্প্রচারটি এখন বন্ধ আছে|";
+//HomeViewController
+"ALERT" = "সতর্ক সংকেত";
+"This function is only available on the iPhone" = "এই ফাংশন শুধুমাত্র আইফোনের জন্য প্রযোজ্য";
+"Error" = "ভুল";
+"Your device doesn't support SMS!" = "আপনার ডিভাইস এস এম এস সাপোর্ট করেনা";
+"Just sent the %@ file to your email. Please check!" = "ফাইলটি আপনার ইমেইল-এ পাঠানো হয়েছে। অনুগ্রহ করে ই-মেইল চেক করুন।";
+"Audio" = "অডিও";
+"Video" = "ভিডিও";
+
+"Message sending failed!" = " বার্তা পাঠানো ব্যর্থ হয়েছে!";
+
+"Please add at least one ONVIF profile." = "অনুগ্রহ করে অন্তত একটি ও এন ভি আই এফ প্রোফাইল যোগ করুন";
+"Home" = "হোম";// পেজ
+"No SIM Card Installed!" = "কোন সিম কার্ড ইনস্টল নাই!";
+"Manage Members" = "সদস্য পরিচালনা";
+
+"Notification" = "বিজ্ঞপ্তি";
+
+"Loading Alerts..." = "সতর্ক সংকেত লোড করা হচ্ছে";
+"Loading History..." = "বিবরণ লোড করা হচ্ছে";
+"Location History:" = "অবস্থান বিবরণঃ";
+
+
+//MemberControlTableViewController
+"Manage Members" = "সদস্য পরিচালনা";
+"Update"  = "আপডেট";
+"Successfully Updated" = "আপডেট সম্পন্ন হয়েছে";
+"Update is completed" = "আপডেট সম্পন্ন হয়েছে";
+"Emergency contact add successfully" = "জরুরী ফোন নম্বর যোগ হয়েছে";
+"Emergency contact remove successfully" = "জরুরী ফোন নম্বর মুছে ফেলা হয়েছে";
+//RegistrationSuccessfulViewController
+
+//MemberSignUpViewController
+"User Name can't be empty!" = "ব্যবহারকারী নাম খালি রাখা যাবে না";
+"Password can't be empty!" = "পাসওয়ার্ড খালি রাখা যাবে না";
+"User name can't be empty!" = "ব্যবহারকারীর নাম খালি রাখা যাবে না";
+"Contact can't be empty!" = "যোগাযোগ নম্বর খালি রাখা যাবে না";
+"Email can't be empty!" = "ইমেইল খালি রাখা যাবে না";
+"Incorrect email formate!" = "ভুল ইমেইল ফরম্যাট ";
+"Gender can't be empty!" = "লিঙ্গ খালি রাখা যাবে না";
+"Relation can't be empty!" = "সম্পর্ক খালি রাখা যাবে না";
+"Signup" = "সাইন আপ";
+"Name" = "নাম";
+"Gender" = "লিঙ্গ";
+"Mobile" = "মোবাইল";
+"Email" = "ইমেইল";
+"Male" = "পুরুষ";
+"Female" = "মহিলা";
+"SignUp..." = "সাইনআপ...";
+"Signup Error!Please try again" = "সদস্য সাইন আপ ত্রুটি! অনুগ্রহ করে আবার চেষ্টা করুন";
+"Add Member..." = "সদস্য তৈরি করা হচ্ছে ...";
+"Please try again" = "অনুগ্রহ পূর্বক আবার চেষ্টা করুন";
+
+//MenuViewController
+"Guardian" = "অভিভাবক";
+"Member" = "সদস্য";
+"Home" = "হোম";
+"Details" = "বিস্তারিত";
+"Profile" = "প্রোফাইল";
+"Manage Your Information" = "আপনার তথ্য নিয়ন্ত্রণ করুন";
+"Manage Members" = "সদস্য পরিচালনা";
+"Manage Your Family Member" = "আপনার পারিবারিক সদস্য পরিচালনা করুন";
+"Surroundapps" = "সারাউন্ড অ্যাপস";
+"Other Surroundapps" = "অন্যান্য সারাউন্ড অ্যাপস";
+"Logout" = "লগ আউট";
+"Exit From App" = "অ্যাপ থেকে প্রস্থান করুন";
+"Settings" = "সেটিংস";
+"Panic Settings" = "প্যানিক সেটিংস";
+"Personalize your app" = "আপনার অ্যাপ্লিকেশন ব্যক্তিগত রূপ দিন";
+"Emergency Contact" = "জরুরী যোগাযোগ";
+"Set emergency contacts" = "জরুরি নম্বর যোগ করুন";
+//"Account Status" = "পেমেন্ট";
+"Account details" = "একাউন্ট বিবরণ";
+//RegistrationSuccessfulViewController
+
+//UpdateProfileViewController
+"Member Profile" = "সদস্য প্রোফাইল";
+"persons" = "ব্যক্তি";
+"person" = "ব্যক্তি";
+"First name can't be empty!" = "প্রথম নাম খালি রাখা যাবে না";
+"Update Failed!" = "হালনাগাদ ব্যর্থ হয়েছে";
+"Try again" = "আবার চেষ্টা করুন";
+"Profile picture updated successfully" = "প্রোফাইল হালনাগাদ সফল হয়েছে";
+"Profile picture size too big!" = "প্রোফাইল ছবির আকার অনেক বড়";
+"Updating..." = "হালনাগাদ...";
+"Add New Family Member" = "পারিবারিক সদস্য তৈরী";
+"Relation" = "সম্পর্ক";
+"Update Settings..." = "সেটিংস হালনাগাদ";
+
+//UserSignUpViewController
+"Internal Server Error" = "অভ্যন্তরীণ সার্ভার ত্রুটি!";
+"Signup Error! Please try again" = "সাইন আপ ত্রুটি! অনুগ্রহ করে আবার চেষ্টা করুন";
+"Please Select activation type" = "দয়া করে অ্যাক্টিভেশন টাইপ নির্বাচন করুন";
+
+"SMS" = "এস এম এস";
+"Mail" = "ইমেইল";
+"User already exist" = " এই ব্যবহারকারী ইতিমধ্যে নিবন্ধন করেছেন";
+"User model not valid" = "ব্যবহারকারী মডেল বৈধ নয়";
+"Unable to execute" = "নির্বাহ করতে অক্ষম";
+"Member model must have gurdian_id or register as guardian" = "সদস্যের অভিভাবক থাকতে হবে বা অভিভাবক হিসাবে নিবন্ধিত হোন";
+"Inactive User. Please activate" = "এই ব্যবহারকারী একটিভ নয়";//"নিষ্ক্রিয় ব্যবহারকারী. সক্রিয় করুন";
+"Invalid User" = "এই ব্যবহারকারী একটিভ নয়";//"অকার্যকর ব্যবহারকারী";
+"Login Error! Please try later" = "লগইন ত্রুটি! পরে চেষ্টা করুন";
+"Password not match" = "পাসওয়ার্ড মিলছে না";
+"No such user" = "এরকম কোনো ব্যবহারকারী নেই";
+
+"Video panic alert failed to send!" = "ভিডিও প্যানিক সতর্কতা পাঠাতে ব্যর্থ হয়েছে!";
+"Video panic alert has been sent." = "ভিডিও প্যানিক সতর্কতা পাঠানো হয়েছে।";
+"Video streaming alert has been sent." = "ভিডিও স্ট্রিমিং সতর্কতা পাঠানো হয়েছে।";
+"Video streaming alert failed to send!" = "ভিডিও স্ট্রিমিং সতর্কতা পাঠাতে ব্যর্থ হয়েছে!";
+
+"Audio panic alert has been sent." = "অডিও প্যানিক সতর্কতা পাঠানো হয়েছে।";
+"Audio panic alert failed to send!" = "অডিও প্যানিক সতর্কতা পাঠাতে ব্যর্থ হয়েছে!";
+"Audio streaming alert has been sent." = "অডিও স্ট্রিমিং সতর্কতা পাঠানো হয়েছে।";
+"Audio streaming alert failed to send!" = "অডিও স্ট্রিমিং সতর্কতা পাঠাতে ব্যর্থ হয়েছে!";
+"SMS panic alert has been sent." = "এসএমএস প্যানিক সতর্কতা পাঠানো হয়েছে।";
+"Panic alert has been sent." = "প্যানিক সতর্কতা পাঠানো হয়েছে।";
+"Panic alert failed to send!" = "প্যানিক সতর্কতা পাঠাতে ব্যর্থ হয়েছে!";
+"Snapshot panic alert has been sent." = "স্ন্যাপশট প্যানিক সতর্কতা পাঠানো হয়েছে।";
+
+// Failed Alerts
+"Failed to send SMS!" = "এসএমএস পাঠাতে ব্যর্থ হয়েছে!";
+"Invalid Phone number!" = "অচল ফোন নম্বর!";
+"Notice" = "বিজ্ঞপ্তি";
+"You need to add one member at least" = "আপনাকে অন্তত এক জন সদস্য যোগ করতে হবে";
+"Please add at leat one contact number!" = "কমপক্ষে একটি পরিচিতি নম্বর যুক্ত করুন!";
+"sohan" = "sohan";
+"User is hidden to all members" = "অবস্থান সফলভাবে লুকানো হয়েছে।";
+"User visible to all members" = "অবস্থান সকল সদস্যদের কাছে দৃশ্যমান।";
+"getting emergency contact" = "জরুরী পরিচিতি পেয়ে";
+"Mobile" = "মোবাইল";
+"phone nubmer is empty" = "ফোন নম্বর খালি";
+//sms verificationVC
+"verifying..." = "যাচাই করা হচ্ছে ...";
+"Activation code cannot be empty" = "অ্যাক্টিভেশন কোড খালি রাখা যাবে না";
+"Enter Your Sms Activation Code" = "আপনার এসএমএস অ্যাক্টিভেশন কোড লিখুন";
+"Loading..." = "লোড হচ্ছে...";
+"Emergency contacts already add 3 numbers" = "জরুরী পরিচিতি ইতিমধ্যে 3 নম্বর যুক্ত";
+"Phone nubmer cannot be empty!" = "ফোন নম্বর খালি হতে পারে না!";
+//PaymentViewController
+"Thank You" = "ধন্যবাদ";
+"Sorry" = "দুঃখিত";
+"Your Payment has been Successful." = "আপনার পেমেন্ট সফল হয়েছে।";
+"Your Payment Failed!" = "আপনার পেমেন্ট ব্যর্থ হয়েছে!";
+"Verification Successful" = "যাচাইকরণ সফল";
+"Sms verification error" = "এসএমএস যাচাইকরণ ত্রুটি";
+"Get emergency contact fail" = "জরুরী পরিচিতি ব্যর্থ পেতে";
+"Change password" = "পাসওয়ার্ড পরিবর্তন";
+"Old password" = "পুরাতন পাসওয়ার্ড";
+"New password" = "নতুন পাসওয়ার্ড";
+"Old Password cannot be empty" = "পুরনো পাসওয়ার্ড খালি রাখা যাবে না";
+"New Password cannot be empty" = "নতুন পাসওয়ার্ড খালি রাখা যাবে না";
+"Password change successfully" = "পাসওয়ার্ড পরিবর্তন সফল হয়েছে";
+"changePassword..." = "পাসওয়ার্ড পরিবর্তন...";
+"Change password error" = "পাসওয়ার্ড পরিবর্তন ত্রুটি";
+"Forgot Password" = "পাসওয়ার্ড ভুলে গেছেন";
+"Please Select reset type" = "দয়া করে রিসেট টাইপ নির্বাচন করুন";
+"Reset password..." = "পাসওয়ার্ড রিসেট..";
+"In offline" = "অফলাইন";
+"Active inactive member successfully" = "সক্রিয় নিষ্ক্রিয় সদস্য আপডেট সম্পন্ন হয়েছে";
+"Active inactive member not successfully" = "সক্রিয় নিষ্ক্রিয় সদস্য আপডেট ব্যর্থ হয়েছে";
+"Please fill up at least one them (email/mobile)" = "ই-মেইল অথবা মোবাইল নাম্বারের মধ্যে অন্তত একটি ঘর পূরণ করতে হবে!";
+"Do you want to logout?" = "আপনি লগ-আউট করতে চান না?";
+"Yes" = "হাঁ";
+"No" = "না";
+"Change Password" = "পাসওয়ার্ড পরিবর্তন";
+"No information provided" = "কোন তথ্য দেওয়া নাই";
+"Select" = "নির্বাচন করুণ";
+"Photo Album" = "ফটো অ্যালবাম";
+"Camera" = "ক্যামেরা";
+"Cancel" = "বাতিল";
+"Image crop" = "ইমেজ ক্রপ";
+"Done" = "সম্পন্ন";
+"Choose Type" = "টাইপ নির্বাচন করুন";
+"Profile Update" = "প্রোফাইল আপডেট";
+"Change Password" = "পাসওয়ার্ড পরিবর্তন";
+"Do you want to remove this bounary?" = "আপনি এই সীমানা অপসারণ করতে চান?";
+"Set boundary name" = "সীমানা নাম সেট করুন";
+"enter your boundary name" = "আপনার সীমানা নাম লিখুন";
+"Draw" = "আঁকা";
+"Reset" = "রিসেট";
+"Add boundary" = "সীমানা যোগ";
+"Pair Device" = "পেয়ার ডিভাইস";
+"Add Device Successfully" = "ডিভাইস সফলভাবে যোগ হয়েছে";
+"Add Device Fail" = "ডিভাইস যোগ ব্যর্থ হয়েছে";
+"Boundary touch alert has been sent." = "সীমানা স্পর্শ সতর্কতা পাঠানো হয়েছে।";
+"Boundary untouched alert has been sent." = "সীমানা অক্ষত সতর্কতা পাঠানো হয়েছে।";
+"Unpair Device" = "বিযুক্ত ডিভাইস";
+"Pair Your Device" = "ডিভাইস যোগ করুন";
+"Unpair Your Device" = "ডিভাইস বিযুক্ত করুন";
+"Silent Remote Streaming" = "সাইলেন্ট রিমোট স্ট্রিমিং";
+"Silent Remote Streaming Control" = "সাইলেন্ট রিমোট স্ট্রিমিং নিয়ন্ত্রণ";
+
+"Add Device" = "ডিভাইস যোগ করুন";
+"Qr Code Can Not Empty!" = "কিউআর কোড খালি রাখা যাবে না!";
+"Manually Input QR Id" = "ম্যানুয়ালি কিউআর কোড ইনপুট দাও";
+"add three points at least" = "অন্তত তিনটি পয়েন্ট যোগ করুন";
+"Account Status" = "একাউন্ট স্টাটাস";
+"Activation" = "সক্রিয়করণ";
+"Location tracking on and off option" = "অবস্থান ট্র্যাকিং অন/অফ";
+"SMS Activation" = "এসএমএস অ্যাক্টিভেশন";
+"seconds wait" = "সেকেন্ড অপেক্ষা করুন";
+"Location tracking ON and OFF action" = "অবস্থান ট্র্যাকিং অন/অফ";
+"Show location" = "অবস্থান দেখান";
+"Hide location" = "অবস্থান লুকান";
+"Re-send emali..." = "ইমেল পুনরায় পাঠান";
+"Re-sent email successfully. Please check your email" = "সফলভাবে ইমেল পুনরায় পাঠানো হয়েছে। অনুগ্রহপূর্বক আপনার ইমেইল চেক করুন";
+"Resend eamil fail" = "পুনরায় ইমেল পাঠানো ব্যর্থ হয়েছে";
+"Resend activation code" = "সক্রিয়করণ কোড পুনরায় পাঠান";
+"Resend activation code successfully" = "সক্রিয়করণ কোড সফলভাবে পুনরায় পাঠানো হয়েছে";
+"Resend activation code fail" = "পুনরায় সক্রিয় করুন অ্যাক্টিভেশন কোড ব্যর্থ হয়েছে";
+"at" = "সময়";
+"and" = "এবং";
+"Send SMS when pressing alert and panic resource type both can not be none" = "সতর্কতা এবং প্যানিক রিসোর্স টাইপ টিপে এসএমএস পাঠান উভয়ই হতে পারে না";
+
+"Profile updates successfully" = "প্রোফাইল সফলভাবে আপডেট করা হয়েছে";
+"App need to restart to change app language" = "অ্যাপ্লিকেশন ভাষা পরিবর্তন করার জন্য অ্যাপটিকে পুনরায় চালু করতে হবে";
+"Boundary Set Tutorial" = "সীমানা সেট টিউটোরিয়াল";
+"Continue" = "কন্টিনিউ";
+"Skip" = "স্কিপ";
+"Create a boundary,Click here" = "সীমা তৈরি করতে, এখানে ক্লিক করুন";
+"Do you want to see the boundary tutorial?" = "আপনি সীমানার টিউটোরিয়াল দেখতে চান?";
+"Show" = "দেখান";
+"Boundary creation failed!" = "বাউন্ডারি তৈরী ব্যর্থ হয়েছে!";
+"Logout" = "লগআউট";
+"Unpair Device Fail" = "বিযুক্ত ডিভাইস ব্যর্থ";
+"You can not remove less than threee points" = "আপনি তিন পয়েন্টের কমও সরাতে পারবেন না";
+"getting packages" = "প্যাকেজ...";
+"Get package fail" = "প্যাকেজ পেতে ব্যর্থ";
+"Setting Update Error!Please try again" = "আপডেট ব্যর্থ! দয়া করে আবার চেষ্টা করুন";
+"Member Active" = "সদস্য সক্রিয়";
+"Member Inactive" = "সদস্য নিষ্ক্রিয়";
+"Battery Status" = "ব্যাটারি অবস্থা";
+"Battery" = "ব্যাটারি";

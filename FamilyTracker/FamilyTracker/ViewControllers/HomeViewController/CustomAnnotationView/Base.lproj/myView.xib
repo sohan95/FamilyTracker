@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12120" systemVersion="16E195" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="CalloutView">
+            <rect key="frame" x="0.0" y="0.0" width="300" height="147"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Md. Shahanur Rahmann" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="maq-W2-6Fo" userLabel="MemberName">
+                    <rect key="frame" x="5" y="20" width="260" height="21"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="21" id="bTU-OV-kVb"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" weight="medium" pointSize="16"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="yaQ-kf-Sie" userLabel="MakeCall">
+                    <rect key="frame" x="15" y="56" width="75" height="30"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="30" id="etE-VG-0xX"/>
+                        <constraint firstAttribute="width" constant="75" id="xkg-ao-fcs"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                    <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <inset key="titleEdgeInsets" minX="5" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <state key="normal" title="Call" image="Calls">
+                        <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="highlighted">
+                        <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="titleShadowColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="249" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="VrB-K6-Hks" userLabel="MakeSMS">
+                    <rect key="frame" x="90" y="56" width="85" height="30"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="85" id="Bo2-wu-Thy"/>
+                        <constraint firstAttribute="height" constant="30" id="O15-i3-xnW"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                    <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <inset key="titleEdgeInsets" minX="4" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <state key="normal" title="Send SMS" image="SMS-Icon">
+                        <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="highlighted">
+                        <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="titleShadowColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="E5C-6s-N96" userLabel="ShowDetails">
+                    <rect key="frame" x="140" y="97" width="70" height="30"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="70" id="Ak1-mT-Hqk"/>
+                        <constraint firstAttribute="height" constant="30" id="yqu-BB-Lgi"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                    <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <inset key="titleEdgeInsets" minX="4" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <state key="normal" title="Details" image="Details-Icon">
+                        <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="highlighted">
+                        <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="titleShadowColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="FKq-uY-t1f" userLabel="ShowLocationBrief">
+                    <rect key="frame" x="15" y="97" width="110" height="30"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="30" id="TVu-Np-oXy"/>
+                        <constraint firstAttribute="width" constant="110" id="g9L-NY-rw5"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                    <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <inset key="titleEdgeInsets" minX="4" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <state key="normal" title="Location History" image="Location-History">
+                        <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="highlighted">
+                        <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="titleShadowColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FRp-tY-baA">
+                    <rect key="frame" x="175" y="56" width="110" height="30"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="30" id="Cu1-Ih-pTW"/>
+                        <constraint firstAttribute="width" constant="110" id="vjI-e0-Jdi"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                    <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <inset key="titleEdgeInsets" minX="4" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <state key="normal" title="Travel Boundary" image="Boundary-Icon">
+                        <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="highlighted">
+                        <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="titleShadowColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="AWW-tn-ZRA">
+                    <rect key="frame" x="265" y="10" width="25" height="25"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="25" id="AdG-te-G9e"/>
+                        <constraint firstAttribute="height" constant="25" id="wmj-Of-FvC"/>
+                    </constraints>
+                    <state key="normal" image="CloseBtnNight"/>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="AWW-tn-ZRA" secondAttribute="trailing" constant="10" id="BUY-NH-gkk"/>
+                <constraint firstItem="VrB-K6-Hks" firstAttribute="top" secondItem="maq-W2-6Fo" secondAttribute="bottom" constant="15" id="JE7-Uv-Xve"/>
+                <constraint firstItem="maq-W2-6Fo" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="20" id="JFO-lu-qPA"/>
+                <constraint firstItem="AWW-tn-ZRA" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="10" id="JN8-ch-UqD"/>
+                <constraint firstAttribute="bottom" secondItem="E5C-6s-N96" secondAttribute="bottom" constant="20" id="TC7-mr-seL"/>
+                <constraint firstItem="FKq-uY-t1f" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="15" id="V7f-9Q-6Qr"/>
+                <constraint firstAttribute="bottom" secondItem="FKq-uY-t1f" secondAttribute="bottom" constant="20" id="WCz-2c-hHK"/>
+                <constraint firstAttribute="trailing" secondItem="FRp-tY-baA" secondAttribute="trailing" constant="15" id="an7-lP-GTC"/>
+                <constraint firstAttribute="trailing" secondItem="maq-W2-6Fo" secondAttribute="trailing" constant="35" id="b1F-3i-byk"/>
+                <constraint firstItem="VrB-K6-Hks" firstAttribute="leading" secondItem="yaQ-kf-Sie" secondAttribute="trailing" id="dEt-oZ-KYi"/>
+                <constraint firstItem="E5C-6s-N96" firstAttribute="leading" secondItem="FKq-uY-t1f" secondAttribute="trailing" constant="15" id="fmL-T7-TGA"/>
+                <constraint firstItem="yaQ-kf-Sie" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="15" id="hQM-4f-t8I"/>
+                <constraint firstItem="yaQ-kf-Sie" firstAttribute="top" secondItem="maq-W2-6Fo" secondAttribute="bottom" constant="15" id="s4j-xU-U10"/>
+                <constraint firstItem="maq-W2-6Fo" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="5" id="whE-Yh-V4a"/>
+                <constraint firstItem="FRp-tY-baA" firstAttribute="top" secondItem="maq-W2-6Fo" secondAttribute="bottom" constant="15" id="zW3-YO-gjf"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <variation key="default">
+                <mask key="subviews">
+                    <exclude reference="AWW-tn-ZRA"/>
+                </mask>
+            </variation>
+            <connections>
+                <outlet property="SMSBtn" destination="VrB-K6-Hks" id="qx1-S4-wC4"/>
+                <outlet property="callBtn" destination="yaQ-kf-Sie" id="ddN-Ba-tWE"/>
+                <outlet property="closeBtn" destination="AWW-tn-ZRA" id="AZX-hY-K05"/>
+                <outlet property="detailsBtn" destination="E5C-6s-N96" id="vaE-a4-0GR"/>
+                <outlet property="locationBriefBtn" destination="FKq-uY-t1f" id="Rr2-0b-gfr"/>
+                <outlet property="makeCallButtonWidth" destination="xkg-ao-fcs" id="6Vb-Av-mWx"/>
+                <outlet property="makeCallLeadingValue" destination="hQM-4f-t8I" id="z32-l8-c0Z"/>
+                <outlet property="makeSmsButtonWidth" destination="Bo2-wu-Thy" id="Och-LJ-Pb8"/>
+                <outlet property="memberNameLbl" destination="maq-W2-6Fo" id="c1c-1m-0dz"/>
+                <outlet property="sendSmsLedaingValue" destination="dEt-oZ-KYi" id="gea-sk-ItH"/>
+                <outlet property="setBoundary" destination="FRp-tY-baA" id="tTO-Yt-pST"/>
+            </connections>
+            <point key="canvasLocation" x="42" y="363.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="Boundary-Icon" width="25" height="25"/>
+        <image name="Calls" width="25" height="25"/>
+        <image name="CloseBtnNight" width="28" height="28"/>
+        <image name="Details-Icon" width="25" height="25"/>
+        <image name="Location-History" width="25" height="25"/>
+        <image name="SMS-Icon" width="25" height="25"/>
+    </resources>
+</document>

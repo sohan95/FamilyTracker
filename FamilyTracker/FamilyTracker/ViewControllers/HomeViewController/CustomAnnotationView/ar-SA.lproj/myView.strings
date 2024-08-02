@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Details"; ObjectID = "E5C-6s-N96"; */
+"E5C-6s-N96.normalTitle" = "Details";
+
+/* Class = "UIButton"; normalTitle = "Location History"; ObjectID = "FKq-uY-t1f"; */
+"FKq-uY-t1f.normalTitle" = "Location History";
+
+/* Class = "UIButton"; normalTitle = "Send SMS"; ObjectID = "VrB-K6-Hks"; */
+"VrB-K6-Hks.normalTitle" = "Send SMS";
+
+/* Class = "UILabel"; text = "Md. Shahanur Rahmann"; ObjectID = "maq-W2-6Fo"; */
+"maq-W2-6Fo.text" = "Md. Shahanur Rahmann";
+
+/* Class = "UIButton"; normalTitle = "Call"; ObjectID = "yaQ-kf-Sie"; */
+"yaQ-kf-Sie.normalTitle" = "Call";

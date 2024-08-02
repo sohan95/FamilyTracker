@@ -1,0 +1,30 @@
+{
+"user_name": "",
+"id": "",
+"address": "",
+"age": null,
+"contact": "",
+"date_of_birth": "",
+"email": "",
+"first_name": "",
+"gender": "",
+"guardian_id": "",
+"is_active": true,
+"is_trialperiod": ,
+"last_name": "",
+"profile_pic": "",
+"role": 1,
+"settings": [
+             "1002",
+             "1003"
+             ],
+"trial_period_start": "2017-01-30T08:37:06.457Z",
+"sessionToken": "",
+"remainingTrialPerid": null,
+"trialPeriodMsg": null,
+"ejabbered": {
+    "room": "",
+    "host": "",
+    "ip": ""
+}
+}
